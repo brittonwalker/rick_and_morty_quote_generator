@@ -1,1 +1,1 @@
-# rick_and_morty_quote_generator
+# Rick and Morty Quote Generator
